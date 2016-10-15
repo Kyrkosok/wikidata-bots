@@ -1,6 +1,6 @@
 # Kyrkosok.se Wikidata Bots
 
-This repository contains bot for maintaining and importing heritage data in Wikidata.
+This repository contains bots for maintaining and importing heritage data in Wikidata.
 
 ## Requirements
 
