@@ -1,7 +1,7 @@
 import wikibot, re
 
 #
-# This bot is used to detect dublicate P1260(kulturarvsdata) statements
+# This bot is used to detect duplicate P1260(kulturarvsdata) statements
 #
 # user-config.py:
 # family = 'wikidata'
